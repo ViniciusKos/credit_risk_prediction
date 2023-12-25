@@ -11,7 +11,7 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-env_credit_risk/
+credit_risk_env/
 downloads/
 eggs/
 .eggs/
